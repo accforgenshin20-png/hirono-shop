@@ -15,7 +15,7 @@ st.set_page_config(
 # ==========================================
 # CONFIG
 # ==========================================
-FILE_DATA = "data_hirono.csv"
+FILE_DATA = "data_hirono1.csv"
 
 # Nomor WhatsApp Customer Service
 ADMIN_WA = "6285961576154"
