@@ -1,4 +1,3 @@
-```python
 import os
 import pandas as pd
 import streamlit as st
@@ -629,7 +628,6 @@ font-size:0.8rem;
 letter-spacing:2px;
 font-family:'Rajdhani', sans-serif;
 ">
-HIRONO GALLERY © 2026
+HIRONO GALLERY ©️ 2026
 </p>
 """, unsafe_allow_html=True)
-```
